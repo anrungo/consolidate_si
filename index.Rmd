@@ -66,7 +66,7 @@ text-color: white
 .red1[What happens to data from the site]
 
 ```{r, out.width="100%", fig.align='center', echo=FALSE}
-knitr::include_graphics("img/work_flow.png")
+knitr::include_graphics("img/work_flow.PNG")
 ```
 
 
@@ -82,7 +82,7 @@ text-color: white
 
 
 ```{r, out.width="90%", fig.align='center', echo=FALSE}
-knitr::include_graphics("img/error1.png")
+knitr::include_graphics("img/error1.PNG")
 ```
 
 ---
@@ -98,7 +98,7 @@ text-color: white
 
 
 ```{r, out.width='90%', fig.align='center', echo=FALSE}
-knitr::include_graphics("img/error2a.png")
+knitr::include_graphics("img/error2a.PNG")
 ```
 
 ---
@@ -112,7 +112,7 @@ text-color: white
 .red1[During data entry on DHIS2]
 
 ```{r, out.width="90%", fig.align='center', echo=FALSE}
-knitr::include_graphics("img/error3.png")
+knitr::include_graphics("img/error3.PNG")
 ```
 
 ---
@@ -126,7 +126,7 @@ text-color: white
 .red1[During data entry on DHIS2]
 
 ```{r, out.width='100%', fig.align='center', echo=FALSE}
-knitr::include_graphics("img/error4.png")
+knitr::include_graphics("img/error4.PNG")
 ```
 
 
@@ -143,7 +143,7 @@ text-color: white
 
 
 ```{r, out.width='110%', fig.align='center', echo=FALSE}
-knitr::include_graphics("img/datacheck1.png")
+knitr::include_graphics("img/datacheck1.PNG")
 ```
 
 
@@ -159,7 +159,7 @@ text-color: white
 
 
 ```{r, out.width="100%", fig.align='center', echo=FALSE}
-knitr::include_graphics("img/dataquality.png")
+knitr::include_graphics("img/dataquality.PNG")
 ```
 
 ---
@@ -175,7 +175,7 @@ text-color: white
 
 
 ```{r, out.width="40%", fig.align='center', echo=FALSE}
-knitr::include_graphics("img/no.png")
+knitr::include_graphics("img/no.PNG")
 ```
 
 
@@ -212,7 +212,7 @@ text-color: white
 .red1[RDQA Tool used]
 
 ```{r, out.width="100%", fig.align='center', echo=FALSE}
-knitr::include_graphics("img/RDQA_Tool.png")
+knitr::include_graphics("img/RDQA_Tool.PNG")
 ```
 
 
@@ -243,7 +243,7 @@ text-color: white
 
 
 ```{r, out.width="100%", fig.align='center', echo=FALSE}
-knitr::include_graphics("img/geolocation1.png")
+knitr::include_graphics("img/geolocation1.PNG")
 ```
 
 
