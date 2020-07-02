@@ -1,0 +1,162 @@
+/*.title-slide {
+  background-image: url("img/cover_m2m.PNG");
+  background-size: cover;
+}*/
+
+
+.title-slide .remark-slide-number {
+  display: none;
+}
+.header {
+  background-color: #fff;
+  background-image: url(figure1_logo.png);
+  padding: 10px 0;
+  /*text-align: middle;*/
+  position: fixed;
+  color: #413395;
+  width: 100%;
+  top: 10px;
+  left: 0;
+  z-index: 1;
+}
+
+.header .p {
+  background-color: #fff;
+  padding: 0 0 0 10px;
+  /*text-align: middle;*/
+  /*position: relative;
+  width: 100%;
+  top: 30;*/
+  /*left: 30;*/
+  z-index: 1;
+}
+
+.h1 {
+  color: #413395;
+}
+
+.h2 {
+  color: darkorange;
+  font-weight: 20px;
+  font-size: 68px;
+  /*color: white;*/
+  border: 8px solid white;
+  display: inline-block;
+  padding: 28px 16px;
+  border-radius: 26px;
+}
+
+
+body{
+  background-color: #006600
+}
+
+a, a li > code {
+  color: #413395; 
+  text-decoration: bold;
+}
+
+
+/* Add image and change bg color */
+.title-slide {
+  background-position: 50% 15%;
+  background-size: 450px;
+  background-color: #413395; /*#fff*/
+  padding-left: 100px;  /* delete this for 4:3 aspect ratio */
+  margin: auto;
+}
+
+
+.title-slide h1, h2, h3 {
+  /*text-align: center;*/
+  color: #fff;
+  padding-left: 100px;
+}
+
+img, video, iframe {
+  max-width: 100%;
+}
+
+/* Add red tag */
+.red1 {
+  color: #CA6F1E;
+  font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
