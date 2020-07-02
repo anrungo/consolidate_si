@@ -98,7 +98,7 @@ text-color: white
 
 
 ```{r, out.width='90%', fig.align='center', echo=FALSE}
-knitr::include_graphics("img/error2a.PNG")
+knitr::include_graphics("img/error2.PNG")
 ```
 
 ---

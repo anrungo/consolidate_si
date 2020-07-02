@@ -9,7 +9,7 @@
 }
 .header {
   background-color: #fff;
-  background-image: url(figure1_logo.png);
+  background-image: url(img/figure_logo.png);
   padding: 10px 0;
   /*text-align: middle;*/
   position: fixed;
