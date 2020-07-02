@@ -175,7 +175,7 @@ text-color: white
 
 
 ```{r, out.width="40%", fig.align='center', echo=FALSE}
-knitr::include_graphics("img/no.PNG")
+knitr::include_graphics("img/no.png")
 ```
 
 
